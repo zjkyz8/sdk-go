@@ -1,4 +1,4 @@
-module qiyuesuo/sdk
+module github.com/zjkyz8/sdk-go
 
 go 1.20
 
