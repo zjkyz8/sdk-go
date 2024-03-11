@@ -3,7 +3,8 @@ package http
 import (
 	"encoding/json"
 	"io"
-	"qiyuesuo/sdk/commons"
+
+	"github.com/zjkyz8/sdk-go/commons"
 )
 
 const (

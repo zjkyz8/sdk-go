@@ -1,6 +1,6 @@
 package request
 
-import "qiyuesuo/sdk/http"
+import "github.com/zjkyz8/sdk-go/http"
 
 type ContractPersonalJoinUrlRequest struct {
 	// 合同ID与业务ID二选一，不能同时为空

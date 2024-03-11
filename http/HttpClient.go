@@ -10,10 +10,11 @@ import (
 	"net/http"
 	"net/url"
 	"path/filepath"
-	"qiyuesuo/sdk/commons"
 	"reflect"
 	"strconv"
 	"strings"
+
+	"github.com/zjkyz8/sdk-go/commons"
 )
 
 func DoService(interfaceUrl string, httpParameter *HttpParameter, header *HttpHeader) (bs []byte, err error) {

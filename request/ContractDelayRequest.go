@@ -2,7 +2,8 @@ package request
 
 import (
 	"encoding/json"
-	"qiyuesuo/sdk/http"
+
+	"github.com/zjkyz8/sdk-go/http"
 )
 
 type ContractDelayRequest struct {

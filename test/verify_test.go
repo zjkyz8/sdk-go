@@ -3,9 +3,10 @@ package test
 import (
 	"fmt"
 	"os"
-	"qiyuesuo/sdk/http"
-	"qiyuesuo/sdk/request"
 	"testing"
+
+	"github.com/zjkyz8/sdk-go/http"
+	"github.com/zjkyz8/sdk-go/request"
 )
 
 /**

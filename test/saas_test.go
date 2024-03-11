@@ -3,10 +3,11 @@ package test
 import (
 	"encoding/json"
 	"fmt"
-	"qiyuesuo/sdk/http"
-	"qiyuesuo/sdk/model"
-	"qiyuesuo/sdk/request"
 	"testing"
+
+	"github.com/zjkyz8/sdk-go/http"
+	"github.com/zjkyz8/sdk-go/model"
+	"github.com/zjkyz8/sdk-go/request"
 )
 
 var client = http.NewSaaSSdkClient("https://openapi.qiyuesuo.cn", "OcczsY1111", "okNDNASSo2eDAI8dZv0TF2DE111111")

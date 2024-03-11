@@ -2,9 +2,10 @@ package test
 
 import (
 	"fmt"
-	"qiyuesuo/sdk/model"
-	"qiyuesuo/sdk/request"
 	"testing"
+
+	"github.com/zjkyz8/sdk-go/model"
+	"github.com/zjkyz8/sdk-go/request"
 )
 
 /**

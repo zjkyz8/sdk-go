@@ -4,10 +4,11 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
-	"qiyuesuo/sdk/http"
-	"qiyuesuo/sdk/model"
-	"qiyuesuo/sdk/request"
 	"testing"
+
+	"github.com/zjkyz8/sdk-go/http"
+	"github.com/zjkyz8/sdk-go/model"
+	"github.com/zjkyz8/sdk-go/request"
 )
 
 /**

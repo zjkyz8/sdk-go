@@ -1,8 +1,8 @@
 package request
 
 import (
-	"qiyuesuo/sdk/http"
-	"qiyuesuo/sdk/model"
+	"github.com/zjkyz8/sdk-go/http"
+	"github.com/zjkyz8/sdk-go/model"
 )
 
 type SaaSUserAuthResultRequest struct {

@@ -2,8 +2,9 @@ package test
 
 import (
 	"fmt"
-	"qiyuesuo/sdk/request"
 	"testing"
+
+	"github.com/zjkyz8/sdk-go/request"
 )
 
 func TestUserIdentifyVerify(t *testing.T) {

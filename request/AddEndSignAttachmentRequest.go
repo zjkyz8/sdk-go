@@ -1,7 +1,7 @@
 package request
 
 import (
-	"qiyuesuo/sdk/http"
+	"github.com/zjkyz8/sdk-go/http"
 )
 
 type AddEndSignAttachmentRequest struct {
